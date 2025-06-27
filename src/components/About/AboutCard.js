@@ -5,7 +5,7 @@ const experiences = [
   {
     company: "Target",
     title: "Software Developer",
-    duration: "Oct 2022 – Sep 2023",
+    duration: "Mar 2024 – Present",
     location: "Brooklyn, Minnesota ",
     highlights: [
       "Built Angular 14 components with RxJS, TypeScript, and Google Maps.",
@@ -23,7 +23,7 @@ const experiences = [
   {
     company: "United States Patent and Trademark Office",
     title: "Software Developer",
-    duration: "Mar 2024 – Present",
+    duration: "Oct 2022 – Sep 2023",
     location: "Alexandria, VA",
     highlights: [
       "Built responsive UIs using React 17, TypeScript, and Redux for patent filing and tracking",
