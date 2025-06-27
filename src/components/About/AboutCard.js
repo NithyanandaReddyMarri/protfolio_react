@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const experiences = [
   {
     company: "Target",
-    title: "Full Software Developer",
+    title: "Software Developer",
     duration: "Oct 2022 – Sep 2023",
     location: "Brooklyn, Minnesota ",
     highlights: [
@@ -22,7 +22,7 @@ const experiences = [
   },
   {
     company: "United States Patent and Trademark Office",
-    title: "Senior Software Developer",
+    title: "Software Developer",
     duration: "Mar 2024 – Present",
     location: "Alexandria, VA",
     highlights: [
@@ -42,7 +42,7 @@ const experiences = [
   },
   {
     company: "Kohl’s ",
-    title: "Full Stack Developer",
+    title: "Software Developer",
     duration: "Jan 2021 – Sep 2022",
     location: ", Milwaukee, WI",
     highlights: [
