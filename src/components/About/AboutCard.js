@@ -3,27 +3,9 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    company: "Target",
-    title: "Software Developer",
-    duration: "Mar 2024 – Present",
-    location: "Brooklyn, Minnesota ",
-    highlights: [
-      "Built Angular 14 components with RxJS, TypeScript, and Google Maps.",
-      "Secured routes using JWT and implemented role-based access.",
-      "Created REST APIs with Java 17, Spring Boot, and PostgreSQL",
-      "Used Redis for caching and Kafka for async event handling",
-      "Deployed Docker containers to AWS ECS via Terraform",
-      "Set up CI/CD with GitHub Actions; monitored with Prometheus & Grafana",
-    ],
-    achievements: [
-      "Reduced API response times by 40% using Redis caching and query optimization",
-      "Decreased order processing delays by 25% by implementing Kafka-based event workflows",
-    ],
-  },
-  {
     company: "United States Patent and Trademark Office",
     title: "Software Developer",
-    duration: "Oct 2022 – Sep 2023",
+    duration: "Jan 2024 - Present",
     location: "Alexandria, VA",
     highlights: [
       "Built responsive UIs using React 17, TypeScript, and Redux for patent filing and tracking",
@@ -38,6 +20,24 @@ const experiences = [
     achievements: [
       "Launched patent dashboard used daily by 1,000+ staff",
       "Reduced average application review time by 25%",
+    ],
+  },
+  {
+    company: "Target",
+    title: "Software Developer",
+    duration: "Oct 2022 - July 2023",
+    location: "Brooklyn, Minnesota ",
+    highlights: [
+      "Built Angular 14 components with RxJS, TypeScript, and Google Maps.",
+      "Secured routes using JWT and implemented role-based access.",
+      "Created REST APIs with Java 17, Spring Boot, and PostgreSQL",
+      "Used Redis for caching and Kafka for async event handling",
+      "Deployed Docker containers to AWS ECS via Terraform",
+      "Set up CI/CD with GitHub Actions; monitored with Prometheus & Grafana",
+    ],
+    achievements: [
+      "Reduced API response times by 40% using Redis caching and query optimization",
+      "Decreased order processing delays by 25% by implementing Kafka-based event workflows",
     ],
   },
   {
