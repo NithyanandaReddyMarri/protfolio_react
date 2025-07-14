@@ -33,9 +33,11 @@ function Home2() {
                 developer-friendly systems.
               </p>
               <p>
-                Currently based in <strong>Kansas City, MO</strong>, I'm
-                actively seeking opportunities to contribute to forward-thinking
-                teams and help build the next generation of digital products.
+                Currently based in <strong>United States</strong>, I'm actively
+                seeking opportunities to contribute to forward-thinking teams
+                and help build the next generation of digital products. I am
+                also open to relocating anywhere within the U.S. for the right
+                opportunity.
               </p>
               <ul>
                 <li>
